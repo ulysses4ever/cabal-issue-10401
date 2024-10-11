@@ -1,0 +1,3 @@
+packages: .
+program-options
+    ghc-options: -freverse-errors
